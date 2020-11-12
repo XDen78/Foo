@@ -4,6 +4,5 @@ public class Giraffe
      {
        System.out.println ("Go go");
        System.out.println ("Go go Giraffe");
-
      }
 }
