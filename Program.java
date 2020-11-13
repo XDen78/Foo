@@ -7,5 +7,7 @@ public class Program
     zebra.talk();
     Giraffe giraffe=new Giraffe();
     giraffe.talk();
+    Lion lion=new Lion();
+    lion.talk();
   }
 }
